@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="33e3e991-22e6-4b66-ba4b-0d24fcbff97a" name="identifier.sqlite Mapping">
+      <data-sources db="da40f585-2dfa-4706-8b73-3d0f1578b058" />
+      <scope>
+        <node kind="database" negative="1">
+          <node kind="schema" negative="1" />
+        </node>
+      </scope>
+    </mapping>
+    <mapping uuid="824362b0-345b-4f63-be75-b3e085a4c321" name="identifier.sqlite [2] Mapping">
+      <data-sources db="39a15579-5ca2-4c47-9de3-31ac2496eec6" ddl="77b3bf51-e5e8-4c47-b73f-3f0ea0c86058" />
+      <scope>
+        <node kind="database" negative="1">
+          <node kind="schema" negative="1" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+</project>
